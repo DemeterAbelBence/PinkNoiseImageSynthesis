@@ -1,0 +1,17 @@
+﻿  Skeleton.cpp
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(59,9): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(58,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(287,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(288,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(289,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(289,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(293,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(294,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(295,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(295,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(299,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(300,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(301,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\Skeleton\Skeleton.cpp(301,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Skeleton.vcxproj -> C:\Users\demet\OneDrive\Asztali gép\BME\grafika\hazi3\Programs\Skeleton\bin\Skeleton.exe
